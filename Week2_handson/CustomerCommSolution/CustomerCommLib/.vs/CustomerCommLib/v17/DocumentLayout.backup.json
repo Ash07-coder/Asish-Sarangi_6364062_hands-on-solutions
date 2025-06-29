@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Downloads\\CustomerCommSolution\\CustomerCommLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30FFD25D-460A-CA6F-F76E-8964960AFE21}|CustomerCommLib.csproj|c:\\users\\kiit\\downloads\\customercommsolution\\customercommlib\\customercommlib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30FFD25D-460A-CA6F-F76E-8964960AFE21}|CustomerCommLib.csproj|solutionrelative:customercommlib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB639C9C-867F-DBEB-6ED4-67DECB3A1BBF}|..\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj|c:\\users\\kiit\\downloads\\customercommsolution\\customercommlib.tests\\customercommlib.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30FFD25D-460A-CA6F-F76E-8964960AFE21}|CustomerCommLib.csproj|c:\\users\\kiit\\downloads\\customercommsolution\\customercommlib\\customercommlib.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{30FFD25D-460A-CA6F-F76E-8964960AFE21}|CustomerCommLib.csproj|solutionrelative:customercommlib.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerCommLib.Tests",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Downloads\\CustomerCommSolution\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\Downloads\\CustomerCommSolution\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+              "RelativeToolTip": "..\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-29T18:45:52.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerCommLib",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Downloads\\CustomerCommSolution\\CustomerCommLib\\CustomerCommLib.csproj",
+              "RelativeDocumentMoniker": "CustomerCommLib.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\Downloads\\CustomerCommSolution\\CustomerCommLib\\CustomerCommLib.csproj",
+              "RelativeToolTip": "CustomerCommLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-29T18:32:56.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerCommLib",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Downloads\\CustomerCommSolution\\CustomerCommLib\\CustomerCommLib.csproj",
+              "RelativeDocumentMoniker": "CustomerCommLib.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\Downloads\\CustomerCommSolution\\CustomerCommLib\\CustomerCommLib.csproj",
+              "RelativeToolTip": "CustomerCommLib.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-29T18:45:29.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

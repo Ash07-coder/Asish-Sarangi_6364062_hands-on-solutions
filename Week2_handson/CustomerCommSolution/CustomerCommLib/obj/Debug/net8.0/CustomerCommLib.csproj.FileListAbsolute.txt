@@ -1,0 +1,5 @@
+C:\Users\KIIT\Downloads\CustomerCommSolution\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.csproj.AssemblyReference.cache
+C:\Users\KIIT\Downloads\CustomerCommSolution\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Downloads\CustomerCommSolution\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\KIIT\Downloads\CustomerCommSolution\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\KIIT\Downloads\CustomerCommSolution\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.csproj.CoreCompileInputs.cache

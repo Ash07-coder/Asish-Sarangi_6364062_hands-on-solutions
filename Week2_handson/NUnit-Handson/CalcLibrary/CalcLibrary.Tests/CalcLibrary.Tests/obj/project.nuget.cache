@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zp4RVM8tw7E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\forso\\OneDrive\\Desktop\\CalcLibrary\\CalcLibrary.Tests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\forso\\.nuget\\packages\\microsoft.codecoverage\\17.7.2\\microsoft.codecoverage.17.7.2.nupkg.sha512",
+    "C:\\Users\\forso\\.nuget\\packages\\microsoft.net.test.sdk\\17.7.2\\microsoft.net.test.sdk.17.7.2.nupkg.sha512",
+    "C:\\Users\\forso\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\forso\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512",
+    "C:\\Users\\forso\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\forso\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
